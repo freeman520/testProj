@@ -42,12 +42,12 @@
         <mxCell id="auFDA2KLarsrb9yDnHNa-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="定制与美化图表" vertex="1">
           <mxGeometry height="46" width="140" x="190" y="420" as="geometry" />
         </mxCell>
-        <mxCell id="auFDA2KLarsrb9yDnHNa-27" edge="1" parent="1" source="auFDA2KLarsrb9yDnHNa-6" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="auFDA2KLarsrb9yDnHNa-3">
+        <mxCell id="auFDA2KLarsrb9yDnHNa-27" edge="1" parent="1" source="auFDA2KLarsrb9yDnHNa-6" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="auFDA2KLarsrb9yDnHNa-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="50" y="526" />
               <mxPoint x="50" y="380" />
-              <mxPoint x="50" y="236" />
+              <mxPoint x="50" y="143" />
             </Array>
           </mxGeometry>
         </mxCell>
